@@ -1,2 +1,3 @@
-# VisionShop
-This project is a web-based shopping system for an existing shop. The central  concept of the system is to allow the customer to shop virtually using the Internet.
+# Electrocart System-VisionShop
+# Introduction
+###### Online Shopping is a lifestyle e-commerce web system, which retails various fashion and lifestyle products. This project allows viewing various products available, enables registered users to purchase desired products, and an attempt to provide the advantages of online shopping to customers of a real shop. The objective of this project is to develop a general-purpose e-commerce system where product can be bought from the comfort of home through the Internet. It also includes the entire online process of developing, marketing, selling, delivering, servicing and paying for products and services
