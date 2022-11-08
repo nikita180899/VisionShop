@@ -18,14 +18,13 @@ Online Shopping is a lifestyle e-commerce web system, which retails various fash
 ![image](https://user-images.githubusercontent.com/63967137/200526075-c53876a8-6451-4c95-8b10-a3c9fc4ad8e8.png)
 # Database Schema Diagram using Reverse Engineering
 ![image](https://user-images.githubusercontent.com/63967137/200526328-783b747b-fa9a-46b3-8696-5d241bf7faa7.png)
-#Output: UI:
+# Output: UI:
 | Home Page                                                | Contact Us                                               |
 | -------------                                            | -------------                                            |
 | ![image](https://user-images.githubusercontent.com/63967137/200527843-45bb6610-81a5-48e9-b874-3dfe863d1bc9.png)  | ![image](https://user-images.githubusercontent.com/63967137/200527972-53e98f07-e8f8-4a03-b841-f02688124997.png)
-  |
+|
   
 | Login Page                                               | Register Page                                            |
 | -------------                                            | -------------                                            |
 | ![image](https://user-images.githubusercontent.com/63967137/200528380-1e45a36b-4979-4f2a-9c0f-e10b9654f126.png)  | ![image](https://user-images.githubusercontent.com/63967137/200528595-72c47ce8-71c0-4a9a-9544-850bc2c6ce86.png)
-
-  |
+|
